@@ -3,7 +3,7 @@ Simple bash script to update AUR repositories
 
 All you have to do with this script is change this line:  
 
-`aur_directory="/path/to/directory"`
+`aur_directory="/path/to/directory/*"`
 
 You have to replace `/path/to/directory/*` with yours AUR directory path, but remember about `/*` at the end.
 
