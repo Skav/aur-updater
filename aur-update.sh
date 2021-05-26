@@ -1,4 +1,3 @@
-
 #!/usr/bin/bash
 aur_directory="/path/to/directory/*"
 i=1
